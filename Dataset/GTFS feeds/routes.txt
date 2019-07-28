@@ -1,0 +1,914 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+1-Ech-mjp-1,1,,Echuca/Moama - Melbourne Via Bendigo or Heathcote,2
+1-Sht-mjp-1,1,,Shepparton - Melbourne Via Seymour,2
+1-V01-mjp-1,1,,Melbourne - Albury Via Seymour,2
+1-V01-A-mjp-1,1,,Melbourne - Albury Via Seymour,2
+1-V01-B-mjp-1,1,,Melbourne - Albury Via Seymour,2
+1-V04-mjp-1,1,,Melbourne - Ararat Via Ballarat,2
+1-V05-mjp-1,1,,Ballarat - Melbourne Via Melton,2
+1-V05-A-mjp-1,1,,Ballarat - Melbourne Via Melton,2
+1-V05-B-mjp-1,1,,Ballarat - Melbourne Via Melton,2
+1-V08-mjp-1,1,,Melbourne - Bairnsdale Via Traralgon & Sale,2
+1-V08-A-mjp-1,1,,Melbourne - Bairnsdale Via Traralgon & Sale,2
+1-V08-B-mjp-1,1,,Melbourne - Bairnsdale Via Traralgon & Sale,2
+1-V12-mjp-1,1,,Bendigo - Melbourne Via Sunbury,2
+1-V12-A-mjp-1,1,,Bendigo - Melbourne Via Sunbury,2
+1-V12-B-mjp-1,1,,Bendigo - Melbourne Via Sunbury,2
+1-V12-C-mjp-1,1,,Bendigo - Melbourne Via Sunbury,2
+1-V23-A-mjp-1,1,,Melbourne - Geelong,2
+1-V23-B-mjp-1,1,,Melbourne - Geelong,2
+1-V23-C-mjp-1,1,,Melbourne - Geelong,2
+1-V40-mjp-1,1,,Melbourne - Seymour Via Broadmeadows,2
+1-V40-A-mjp-1,1,,Melbourne - Seymour Via Broadmeadows,2
+1-V40-B-mjp-1,1,,Melbourne - Seymour Via Broadmeadows,2
+1-V40-C-mjp-1,1,,Melbourne - Seymour Via Broadmeadows,2
+1-V40-D-mjp-1,1,,Melbourne - Seymour Via Broadmeadows,2
+1-V45-mjp-1,1,,Melbourne - Swan Hill Via Bendigo,2
+1-V48-mjp-1,1,,"Traralgon - Melbourne Via Morwell, Moe & Pakenham",2
+1-V48-A-mjp-1,1,,"Traralgon - Melbourne Via Morwell, Moe & Pakenham",2
+1-V48-B-mjp-1,1,,"Traralgon - Melbourne Via Morwell, Moe & Pakenham",2
+1-V51-A-mjp-1,1,,Warrnambool - Melbourne Via Colac & Geelong,2
+1-V51-B-mjp-1,1,,Warrnambool - Melbourne Via Colac & Geelong,2
+1-my1-A-mjp-1,1,,Maryborough - Melbourne Via Ballarat,2
+1-my1-B-mjp-1,1,,Maryborough - Melbourne Via Ballarat,2
+1-vPK-mjp-1,1,Pakenham,City - Pakenham,2
+1-vsu-mjp-1,1,Sunbury,Sunbury - City (Southern Cross),2
+10-GSR-B-mjp-1,10,Overland,Melbourne - Adelaide,2
+10-GSR-C-mjp-1,10,Overland,Adelaide,2
+10-GSR-D-mjp-1,10,Overland,Melbourne - Adelaide,2
+10-XP2-mjp-1,10,XPT,Melbourne - Sydney Via Wodonga,2
+11-SKY-mjp-1,11,SkyBus,City - Melbourne Airport,3
+2-ALM-A-mjp-1,2,Alamein,City (Flinders Street) - Alamein,2
+2-ALM-B-mjp-1,2,Alamein,City (Flinders Street) - Alamein,2
+2-ALM-C-mjp-1,2,Alamein,City (Flinders Street) - Alamein,2
+2-ALM-D-mjp-1,2,Alamein,City (Flinders Street) - Alamein,2
+2-ALM-E-mjp-1,2,Alamein,City (Flinders Street) - Alamein,2
+2-ALM-F-mjp-1,2,Alamein,City (Flinders Street) - Alamein,2
+2-BEL-A-mjp-1,2,Belgrave,City (Flinders Street) - Belgrave,2
+2-BEL-B-mjp-1,2,Belgrave,City (Flinders Street) - Belgrave,2
+2-BEL-C-mjp-1,2,Belgrave,City (Flinders Street) - Belgrave,2
+2-BEL-D-mjp-1,2,Belgrave,City (Flinders Street) - Belgrave,2
+2-BEL-E-mjp-1,2,Belgrave,City (Flinders Street) - Belgrave,2
+2-BEL-F-mjp-1,2,Belgrave,City (Flinders Street) - Belgrave,2
+2-B31-A-mjp-1,2,Craigieburn,City (Flinders Street) - Craigieburn,2
+2-B31-B-mjp-1,2,Craigieburn,City (Flinders Street) - Craigieburn,2
+2-B31-C-mjp-1,2,Craigieburn,City (Flinders Street) - Craigieburn,2
+2-B31-D-mjp-1,2,Craigieburn,City (Flinders Street) - Craigieburn,2
+2-B31-E-mjp-1,2,Craigieburn,City (Flinders Street) - Craigieburn,2
+2-B31-F-mjp-1,2,Craigieburn,City (Flinders Street) - Craigieburn,2
+2-CRB-A-mjp-1,2,Cranbourne,City (Flinders Street) - Cranbourne,2
+2-CRB-B-mjp-1,2,Cranbourne,City (Flinders Street) - Cranbourne,2
+2-CRB-C-mjp-1,2,Cranbourne,City (Flinders Street) - Cranbourne,2
+2-CRB-D-mjp-1,2,Cranbourne,City (Flinders Street) - Cranbourne,2
+2-CRB-E-mjp-1,2,Cranbourne,City (Flinders Street) - Cranbourne,2
+2-CRB-F-mjp-1,2,Cranbourne,City (Flinders Street) - Cranbourne,2
+2-ain-mjp-1,2,Flemington,Flinders Street - Showgrounds/Flemington,2
+2-FKN-A-mjp-1,2,Frankston,City (Flinders Street) - Frankston,2
+2-FKN-B-mjp-1,2,Frankston,City (Flinders Street) - Frankston,2
+2-FKN-C-mjp-1,2,Frankston,City (Flinders Street) - Frankston,2
+2-FKN-D-mjp-1,2,Frankston,City (Flinders Street) - Frankston,2
+2-FKN-E-mjp-1,2,Frankston,City (Flinders Street) - Frankston,2
+2-FKN-F-mjp-1,2,Frankston,City (Flinders Street) - Frankston,2
+2-GLW-A-mjp-1,2,Glen Waverley,City (Flinders Street) - Glen Waverley,2
+2-GLW-B-mjp-1,2,Glen Waverley,City (Flinders Street) - Glen Waverley,2
+2-GLW-C-mjp-1,2,Glen Waverley,City (Flinders Street) - Glen Waverley,2
+2-GLW-D-mjp-1,2,Glen Waverley,City (Flinders Street) - Glen Waverley,2
+2-GLW-E-mjp-1,2,Glen Waverley,City (Flinders Street) - Glen Waverley,2
+2-GLW-F-mjp-1,2,Glen Waverley,City (Flinders Street) - Glen Waverley,2
+2-HBG-A-mjp-1,2,Hurstbridge,City (Flinders Street) - Hurstbridge,2
+2-HBG-B-mjp-1,2,Hurstbridge,City (Flinders Street) - Hurstbridge,2
+2-HBG-C-mjp-1,2,Hurstbridge,City (Flinders Street) - Hurstbridge,2
+2-HBG-D-mjp-1,2,Hurstbridge,City (Flinders Street) - Hurstbridge,2
+2-HBG-E-mjp-1,2,Hurstbridge,City (Flinders Street) - Hurstbridge,2
+2-HBG-F-mjp-1,2,Hurstbridge,City (Flinders Street) - Hurstbridge,2
+2-LIL-A-mjp-1,2,Lilydale,City (Flinders Street) - Lilydale,2
+2-LIL-B-mjp-1,2,Lilydale,City (Flinders Street) - Lilydale,2
+2-LIL-C-mjp-1,2,Lilydale,City (Flinders Street) - Lilydale,2
+2-LIL-D-mjp-1,2,Lilydale,City (Flinders Street) - Lilydale,2
+2-LIL-E-mjp-1,2,Lilydale,City (Flinders Street) - Lilydale,2
+2-LIL-F-mjp-1,2,Lilydale,City (Flinders Street) - Lilydale,2
+2-PKM-A-mjp-1,2,Pakenham,City (Flinders Street) - Pakenham,2
+2-PKM-B-mjp-1,2,Pakenham,City (Flinders Street) - Pakenham,2
+2-PKM-C-mjp-1,2,Pakenham,City (Flinders Street) - Pakenham,2
+2-PKM-D-mjp-1,2,Pakenham,City (Flinders Street) - Pakenham,2
+2-PKM-E-mjp-1,2,Pakenham,City (Flinders Street) - Pakenham,2
+2-PKM-F-mjp-1,2,Pakenham,City (Flinders Street) - Pakenham,2
+2-SDM-A-mjp-1,2,Sandringham,City (Flinders Street) - Sandringham,2
+2-SDM-B-mjp-1,2,Sandringham,City (Flinders Street) - Sandringham,2
+2-SDM-C-mjp-1,2,Sandringham,City (Flinders Street) - Sandringham,2
+2-SDM-D-mjp-1,2,Sandringham,City (Flinders Street) - Sandringham,2
+2-SDM-E-mjp-1,2,Sandringham,City (Flinders Street) - Sandringham,2
+2-SDM-F-mjp-1,2,Sandringham,City (Flinders Street) - Sandringham,2
+2-EPP-A-mjp-1,2,South Morang,City (Flinders Street) - South Morang,2
+2-EPP-B-mjp-1,2,South Morang,City (Flinders Street) - South Morang,2
+2-EPP-C-mjp-1,2,South Morang,City (Flinders Street) - South Morang,2
+2-EPP-D-mjp-1,2,South Morang,City (Flinders Street) - South Morang,2
+2-EPP-E-mjp-1,2,South Morang,City (Flinders Street) - South Morang,2
+2-EPP-F-mjp-1,2,South Morang,City (Flinders Street) - South Morang,2
+2-SPT-A-mjp-1,2,Stony Point,Frankston - Stony Point,2
+2-SPT-B-mjp-1,2,Stony Point,Frankston - Stony Point,2
+2-SPT-C-mjp-1,2,Stony Point,Frankston - Stony Point,2
+2-SPT-D-mjp-1,2,Stony Point,Frankston - Stony Point,2
+2-SPT-E-mjp-1,2,Stony Point,Frankston - Stony Point,2
+2-SPT-F-mjp-1,2,Stony Point,Frankston - Stony Point,2
+2-SYM-A-mjp-1,2,Sunbury,City (Flinders Street) - Sunbury,2
+2-SYM-B-mjp-1,2,Sunbury,City (Flinders Street) - Sunbury,2
+2-SYM-C-mjp-1,2,Sunbury,City (Flinders Street) - Sunbury,2
+2-SYM-D-mjp-1,2,Sunbury,City (Flinders Street) - Sunbury,2
+2-SYM-E-mjp-1,2,Sunbury,City (Flinders Street) - Sunbury,2
+2-SYM-F-mjp-1,2,Sunbury,City (Flinders Street) - Sunbury,2
+2-UFD-A-mjp-1,2,Upfield,City (Flinders Street) - Upfield,2
+2-UFD-B-mjp-1,2,Upfield,City (Flinders Street) - Upfield,2
+2-UFD-C-mjp-1,2,Upfield,City (Flinders Street) - Upfield,2
+2-UFD-D-mjp-1,2,Upfield,City (Flinders Street) - Upfield,2
+2-UFD-E-mjp-1,2,Upfield,City (Flinders Street) - Upfield,2
+2-UFD-F-mjp-1,2,Upfield,City (Flinders Street) - Upfield,2
+2-WBE-A-mjp-1,2,Werribee,City (Flinders Street) - Werribee,2
+2-WBE-B-mjp-1,2,Werribee,City (Flinders Street) - Werribee,2
+2-WBE-C-mjp-1,2,Werribee,City (Flinders Street) - Werribee,2
+2-WBE-D-mjp-1,2,Werribee,City (Flinders Street) - Werribee,2
+2-WBE-E-mjp-1,2,Werribee,City (Flinders Street) - Werribee,2
+2-WBE-F-mjp-1,2,Werribee,City (Flinders Street) - Werribee,2
+2-WMN-A-mjp-1,2,Williamstown,Williamstown - City (Flinders Street),2
+2-WMN-B-mjp-1,2,Williamstown,Williamstown - City (Flinders Street),2
+2-WMN-C-mjp-1,2,Williamstown,Williamstown - City (Flinders Street),2
+2-WMN-D-mjp-1,2,Williamstown,Williamstown - City (Flinders Street),2
+2-WMN-E-mjp-1,2,Williamstown,Williamstown - City (Flinders Street),2
+2-WMN-F-mjp-1,2,Williamstown,Williamstown - City (Flinders Street),2
+3-1-mjp-1,3,1,East Coburg - South Melbourne Beach,0
+3-109-mjp-1,3,109,Port Melbourne - Box Hill,0
+3-11-mjp-1,3,11,West Preston - Victoria Harbour Docklands,0
+3-12-mjp-1,3,12,St Kilda (Fitzroy St) - Victoria Gardens,0
+3-16-mjp-1,3,16,Kew - Melbourne University via St Kilda Beach,0
+3-19-mjp-1,3,19,"Flinders Street Station, City - North Coburg",0
+3-3-mjp-1,3,3/3a,Melbourne University - East Malvern,0
+3-30-mjp-1,3,30,St Vincents Plaza - Etihad Stadium Docklands,0
+3-35-mjp-1,3,35,City Circle(Free Tourist Tram),0
+3-48-mjp-1,3,48,North Balwyn - Victoria Harbour Docklands,0
+3-5-mjp-1,3,5,Melbourne University - Malvern (Burke Road),0
+3-57-mjp-1,3,57,"Flinders Street Station, City - West Maribyrnong",0
+3-58-mjp-1,3,58,West Coburg - Toorak,0
+3-59-mjp-1,3,59,Airport West - Flinders Street Station (City),0
+3-6-mjp-1,3,6,Glen Iris - Moreland,0
+3-64-mjp-1,3,64,Melbourne University - East Brighton,0
+3-67-mjp-1,3,67,Melbourne University - Carnegie,0
+3-70-mjp-1,3,70,Wattle Park - Waterfront City Docklands,0
+3-72-mjp-1,3,72,Melbourne University - Camberwell,0
+3-75-mjp-1,3,75,Etihad Stadium Docklands - Vermont South,0
+3-78-mjp-1,3,78,North Richmond - Balaclava via Prahran,0
+3-82-mjp-1,3,82,Footscray - Moonee Ponds,0
+3-86-mjp-1,3,86,Waterfront City Docklands - Bundoora RMIT,0
+3-96-mjp-1,3,96,St Kilda Beach - East Brunswick,0
+4-PMA-mjp-1,4,109 Express,Arts Centre,3
+4-150-mjp-1,4,150,Williams Landing Station - Tarneit Station,3
+4-151-mjp-1,4,151,Williams Landing Station - Tarneit Station,3
+4-153-mjp-1,4,153,Werribee Station - Williams Landing Station,3
+4-160-mjp-1,4,160,Hoppers Crossing Station - Tarneit Station,3
+4-161-mjp-1,4,161,Werribee Station - Hoppers Crossing Station,3
+4-166-mjp-1,4,166,Hoppers Crossing Station - Wyndham Vale Station,3
+4-167-mjp-1,4,167,Hoppers Crossing Station - Tarneit Station,3
+4-170-mjp-1,4,170,Werribee Station - Tarneit Station,3
+4-180-mjp-1,4,180,Werribee Station - Tarneit Station,3
+4-181-mjp-1,4,181,Werribee Station - Hoppers Crossing Station,3
+4-190-mjp-1,4,190,Werribee Station - Wyndham Vale Station,3
+4-191-mjp-1,4,191,Werribee Station - Manor Lakes,3
+4-192-mjp-1,4,192,Werribee Station - Wyndham Vale Station,3
+4-200-mjp-1,4,200,City (Queen St) - Bulleen,3
+4-C10-mjp-1,4,200-207 combined,City (Lonsdale St),3
+4-201-B-mjp-1,4,201,Deakin University - Box Hill Station,3
+4-201-C-mjp-1,4,201,Box Hill Station,3
+4-201-D-mjp-1,4,201,Deakin University - Box Hill Station,3
+4-207-mjp-1,4,207,Doncaster SC,3
+4-215-mjp-1,4,215,Highpoint SC - Caroline Springs,3
+4-216-mjp-1,4,216,Brighton Beach - Caroline Springs,3
+4-219-mjp-1,4,219,Sunshine South - Gardenvale,3
+4-220-mjp-1,4,220,Sunshine - Gardenvale,3
+4-223-mjp-1,4,223,Yarraville - Highpoint SC,3
+4-232-mjp-1,4,232,City (Queen Victoria Market) - Altona North,3
+4-234-mjp-1,4,234,Garden City - City (Queen Victoria Market),3
+4-235-mjp-1,4,235,City - Fishermans Bend,3
+4-236-mjp-1,4,236,Queen Victoria Market - Garden City,3
+4-237-mjp-1,4,237,City - Fishermans Bend,3
+4-246-mjp-1,4,246,Elsternwick - Clifton Hill,3
+4-250-mjp-1,4,250,La Trobe University - City (Queen St),3
+4-251-mjp-1,4,251,City (Queen St) - Northland SC,3
+4-270-mjp-1,4,270,Box Hill - Mitcham,3
+4-271-mjp-1,4,271,Box Hill - Ringwood,3
+4-273-mjp-1,4,273,Nunawading - The Pines SC,3
+4-279-mjp-1,4,279,Box Hill - Doncaster SC/Templestowe,3
+4-280-mjp-1,4,280,The Pines SC,3
+4-28X-mjp-1,4,281,Deakin University - Templestowe,3
+4-282-mjp-1,4,282,The Pines SC,3
+4-284-mjp-1,4,284,Box Hill - Doncaster Park & Ride,3
+4-285-mjp-1,4,285,Doncaster Park & Ride - Camberwell SC,3
+4-293-mjp-1,4,293,Box Hill - Greensborough,3
+4-295-mjp-1,4,295,Doncaster SC - The Pines SC,3
+4-x58-mjp-1,4,301,La Trobe University - Reservoir Station,3
+4-302-mjp-1,4,302,City (Lonsdale St) - Box Hill,3
+4-303-mjp-1,4,303,City - Ringwood North,3
+4-304-mjp-1,4,304,City (Lonsdale St) - Doncaster SC,3
+4-305-mjp-1,4,305,City (King/Lonsdale Sts) - The Pines,3
+4-309-mjp-1,4,309,City (Queen St) - Donvale,3
+4-318-mjp-1,4,318,City (King/Lonsdale Sts) - Deep Creek,3
+4-350-mjp-1,4,350,City (Queen St) - La Trobe University,3
+4-356-mjp-1,4,356,Epping Station - Wollert East,3
+4-357-mjp-1,4,357,Thomastown Station - Wollert West,3
+4-358-mjp-1,4,358,Wollert - Epping Station,3
+4-364-mjp-1,4,364,Ringwood Station - Warrandyte,3
+4-370-mjp-1,4,370,Mitcham - Ringwood,3
+4-380-mjp-1,4,380,Ringwood Loop  (clockwise) - Ringwood Loop  (anti-clockwise),3
+4-381-mjp-1,4,381,South Morang Station - Diamond Creek Station,3
+4-382-mjp-1,4,382,Northland SC - Whittlesea,3
+4-383-mjp-1,4,383,Palisades - University Hill,3
+4-384-mjp-1,4,384,Whittlesea - Kinglake,3
+4-385-mjp-1,4,385,Mernda North/Whittlesea (via Laurimer Town Centre) - Greensborough (via Laurimer Town Centre),3
+4-386-mjp-1,4,386,Bundoora RMIT - Mernda North,3
+4-387-mjp-1,4,387,Bundoora RMIT (via Hawkstowe Pde) - Mernda North  (via Hawkstowe Pde),3
+4-4o0-mjp-1,4,400,Laverton Station - Sunshine Station,3
+4-401-A-mjp-1,4,401,University of Melbourne - North Melbourne Station,3
+4-401-B-mjp-1,4,401,University of Melbourne - North Melbourne Station,3
+4-402-mjp-1,4,402,East Melbourne - Footscray,3
+4-403-mjp-1,4,403,University of Melbourne - Footscray Station,3
+4-404-mjp-1,4,404,Footscray Station - Moonee Ponds,3
+4-406-mjp-1,4,406,Footscray Station - Keilor East,3
+4-407-mjp-1,4,407,Highpoint SC - Avondale Heights,3
+4-408-mjp-1,4,408,Highpoint SC - St Albans Station,3
+4-4O8-mjp-1,4,408,Highpoint SC - St Albans Station,3
+4-X61-mjp-1,4,409,Yarraville - Highpoint SC,3
+4-410-mjp-1,4,410,Footscray - Sunshine Station,3
+4-411-mjp-1,4,411,Footscray - Laverton Station,3
+4-412-mjp-1,4,412,Footscray - Laverton Station,3
+4-414-mjp-1,4,414,Footscray - Laverton Station,3
+4-415-mjp-1,4,415,Williamstown - Laverton Station,3
+4-417-mjp-1,4,417,Laverton Station - Laverton North,3
+4-418-mjp-1,4,418,Caroline Springs - St Albans Station,3
+4-4I8-mjp-1,4,418,St Albans Station - Caroline Springs,3
+4-419-mjp-1,4,419,Watergardens Station - St Albans Station,3
+4-4I9-mjp-1,4,419,St Albans Station - Watergardens Station,3
+4-420-mjp-1,4,420,Sunshine Station - Watergardens Station,3
+4-421-mjp-1,4,421,St Albans Station - Watergardens Station,3
+4-4Z1-mjp-1,4,421,St Albans Station - Watergardens Station,3
+4-423-mjp-1,4,423,St Albans Station - Brimbank Central SC,3
+4-4Z3-mjp-1,4,423,Brimbank Central SC - St Albans Station,3
+4-424-mjp-1,4,424,St Albans Station - Brimbank Central SC,3
+4-4Z4-mjp-1,4,424,St Albans Station - Brimbank Central SC,3
+4-425-mjp-1,4,425,Watergardens Station - St Albans Station,3
+4-4Z5-mjp-1,4,425,St Albans Station - Watergardens Station,3
+4-427-mjp-1,4,427,Sunshine West - Sunshine Station,3
+4-428-mjp-1,4,428,Sunshine West - Sunshine Station,3
+4-431-mjp-1,4,431,Kingsville - Yarraville,3
+4-432-mjp-1,4,432,Yarraville - Newport,3
+4-439-mjp-1,4,439,Werribee Station - Werribee South,3
+4-441-mjp-1,4,441,Werribee Station - Westleigh Gardens,3
+4-443-mjp-1,4,443,Werribee Station (clockwise) - Werribee Station (anti-clockwise),3
+4-453-mjp-1,4,453,Melton Station - Melton,3
+4-455-mjp-1,4,455,Melton Station - Micasa Rise,3
+4-456-mjp-1,4,456,Sunshine Station - Melton,3
+4-457-mjp-1,4,457,Melton Station - Melton,3
+4-458-mjp-1,4,458,Melton Station - Kurunjang,3
+4-459-mjp-1,4,459,Melton Station - Arnolds Creek,3
+4-460-mjp-1,4,460,Watergardens Station - Caroline Springs Station,3
+4-461-mjp-1,4,461,Watergardens Station - Caroline Springs Town Centre,3
+4-462-mjp-1,4,462,Watergardens - Caroline Springs,3
+4-465-mjp-1,4,465,Keilor Park - Essendon Station,3
+4-467-mjp-1,4,467,Aberfeldie - Moonee Ponds Station,3
+4-468-mjp-1,4,468,Highpoint SC - Essendon,3
+4-471-mjp-1,4,471,Sunshine Station - Williamstown,3
+4-472-mjp-1,4,472,Williamstown - Moonee Ponds,3
+4-475-mjp-1,4,475,Moonee Ponds - Keilor East,3
+4-476-mjp-1,4,476,Moonee Ponds - Plumpton,3
+4-477-mjp-1,4,477,Moonee Ponds - Broadmeadows Station,3
+4-478-mjp-1,4,478,Airport West SC - Melbourne Airport,3
+4-479-mjp-1,4,479,Airport West SC - Sunbury Station,3
+4-481-mjp-1,4,481,Sunbury - Mount Lion,3
+4-482-mjp-1,4,482,Airport West SC - Melbourne Airport,3
+4-L83-mjp-1,4,483,Moonee Ponds - Sunbury,3
+4-484-mjp-1,4,484,Broadmeadows - Roxburgh Park,3
+4-485-mjp-1,4,485,Wilsons Lane - Sunbury,3
+4-486-mjp-1,4,486,Rolling Meadows - Sunbury,3
+4-487-mjp-1,4,487,Killara Heights - Sunbury,3
+4-488-mjp-1,4,488,Jacksons Hill - Sunbury,3
+4-489-mjp-1,4,489,Canterbury Hills - Sunbury,3
+4-490-mjp-1,4,490,Airport West - Gowanbrae,3
+4-494-mjp-1,4,494,Williams Landing Station - Point Cook South,3
+4-495-mjp-1,4,495,Williams Landing Station - Point Cook South,3
+4-496-mjp-1,4,496,Laverton Station - Sanctuary Lakes,3
+4-497-mjp-1,4,497,Williams Landing Station - Saltwater Coast Estate,3
+4-498-mjp-1,4,498,Laverton Station - Hoppers Crossing Station,3
+4-501-mjp-1,4,501,Moonee Ponds - Niddrie,3
+4-503-mjp-1,4,503,East Brunswick - Essendon,3
+4-504-mjp-1,4,504,Moonee Ponds - Clifton Hill,3
+4-505-mjp-1,4,505,Melbourne University - Moonee Ponds,3
+4-506-mjp-1,4,506,Westgarth - Moonee Ponds,3
+4-508-mjp-1,4,508,Moonee Ponds - Alphington,3
+4-509-mjp-1,4,509,Barkly Square SC - Brunswick West,3
+4-510-mjp-1,4,510,Essendon Station - Ivanhoe Station,3
+4-512-mjp-1,4,512,East Coburg - Strathmore Station,3
+4-513-mjp-1,4,513,Glenroy - Eltham,3
+4-517-mjp-1,4,517,St Helena - Northland SC,3
+4-518-mjp-1,4,518,St Helena West - Greensborough,3
+4-526-mjp-1,4,526,Reservoir - Coburg,3
+4-527-mjp-1,4,527,Northland SC - Gowrie,3
+4-528-mjp-1,4,528,Craigieburn Station - Craigieburn South,3
+4-529-mjp-1,4,529,Craigieburn - Craigieburn North,3
+4-530-mjp-1,4,530,Campbellfield - Coburg,3
+4-531-mjp-1,4,531,Upfield - North Coburg,3
+4-532-mjp-1,4,532,Broadmeadows - Craigieburn,3
+4-533-mjp-1,4,533,Craigieburn - Craigieburn North,3
+4-534-mjp-1,4,534,Glenroy - Coburg,3
+4-536-mjp-1,4,536,Glenroy - Gowrie,3
+4-537-mjp-1,4,537,Craigieburn - Craigieburn West,3
+4-538-mjp-1,4,538,Broadmeadows - Somerset Estate,3
+4-540-mjp-1,4,540,Broadmeadows - Upfield,3
+4-541-mjp-1,4,541,Roxburgh Park - Broadmeadows Station,3
+4-542-mjp-1,4,542,Pascoe Vale - Roxburgh Park,3
+4-543-mjp-1,4,543,Greenvale Gardens - Roxburgh Park,3
+4-544-mjp-1,4,544,Craigieburn - Roxburgh Park,3
+4-546-mjp-1,4,546,Heidelberg - Melbourne University,3
+4-548-mjp-1,4,548,Kew - La Trobe University,3
+4-549-mjp-1,4,549,Ivanhoe - Northland SC,3
+4-550-mjp-1,4,550,La Trobe University - Northland SC,3
+4-551-mjp-1,4,551,La Trobe University - Heidelberg,3
+4-x56-mjp-1,4,552,Northcote Plaza - North East Reservoir,3
+4-553-mjp-1,4,553,Preston - West Preston,3
+4-554-mjp-1,4,554,Lalor,3
+4-55x-mjp-1,4,555,Epping Plaza SC - Northland SC,3
+4-X55-mjp-1,4,556,Northland SC - Epping Plaza SC,3
+4-557-mjp-1,4,557,Thomastown,3
+4-558-mjp-1,4,558,Reservoir - Reservoir,3
+4-559-mjp-1,4,559,Thomastown Station,3
+4-X59-mjp-1,4,561,Pascoe Vale - Macleod,3
+4-564-mjp-1,4,564,Bundoora RMIT - South Morang Station,3
+4-566-mjp-1,4,566,Lalor - Northland SC,3
+4-567-mjp-1,4,567,Regent - Northcote,3
+4-569-mjp-1,4,569,South Morang Station - Epping Plaza SC,3
+4-B57-mjp-1,4,570,Bundoora RMIT - Thomastown,3
+4-577-mjp-1,4,577,South Morang Station - Epping Plaza SC,3
+4-578-mjp-1,4,578,Warrandyte - Eltham,3
+4-579-mjp-1,4,579,Warrandyte - Eltham,3
+4-580-mjp-1,4,580,Eltham - Diamond Creek,3
+4-58a-mjp-1,4,582,Nyora Road - Eltham Station,3
+4-600-mjp-1,4,600,Southland Shopping Centre - St Kilda Station,3
+4-601-mjp-1,4,601,Monash University (Clayton) - Huntingdale Station,3
+4-6O5-mjp-1,4,605,Gardenvale - City,3
+4-606-mjp-1,4,606,Elsternwick Station - Fishermans Bend,3
+4-609-mjp-1,4,609,Fairfield - Kew/Hawthorn,3
+4-612-mjp-1,4,612,Chadstone SC - Box Hill,3
+4-623-mjp-1,4,623,St. Kilda - Glen Waverley,3
+4-624-mjp-1,4,624,Kew - Oakleigh,3
+4-625-mjp-1,4,625,Elsternwick - Chadstone SC,3
+4-626-mjp-1,4,626,Middle Brighton - Chadstone SC,3
+4-630-mjp-1,4,630,Elwood - Monash University,3
+4-631-mjp-1,4,631,Southland SC - Waverley Gardens SC,3
+4-663-mjp-1,4,663,Lilydale - Belgrave,3
+4-664-mjp-1,4,664,Knox City SC - Chirnside Park SC,3
+4-670-mjp-1,4,670,Ringwood - Lilydale,3
+4-671-mjp-1,4,671,Croydon - Chirnside Park SC,3
+4-672-mjp-1,4,672,Croydon - Chirnside Park SC,3
+4-673-mjp-1,4,673,Lillydale Lake,3
+4-675-mjp-1,4,675,Chirnside Park SC - Mooroolbark,3
+4-676-mjp-1,4,676,Lilydale,3
+4-677-mjp-1,4,677,Lilydale - Chirnside Park SC,3
+4-679-mjp-1,4,679,Ringwood - Chirnside Park SC,3
+4-680-mjp-1,4,680,Lilydale - Mooroolbark,3
+4-681-mjp-1,4,681,Knox City SC (Clockwise),3
+4-682-mjp-1,4,682,Knox City SC (Anti-Clockwise),3
+4-683-mjp-1,4,683,Warburton - Chirnside Park SC,3
+4-684-mjp-1,4,684,Eildon - Melbourne,3
+4-685-mjp-1,4,685,Lilydale - Healesville,3
+4-686-mjp-1,4,686,Healesville - Badger Creek,3
+4-687-mjp-1,4,687,Chum Creek - Healesville,3
+4-688-mjp-1,4,688,Croydon - Upper Ferntree Gully,3
+4-689-mjp-1,4,689,Montrose - Croydon Station,3
+4-690-mjp-1,4,690,Croydon - Boronia,3
+4-691-mjp-1,4,691,Boronia - Waverley Gardens SC,3
+4-693-mjp-1,4,693,Oakleigh - Belgrave,3
+4-694-mjp-1,4,694,Belgrave - Mt Dandenong,3
+4-695-mjp-1,4,695,Belgrave - Gembrook,3
+4-69F-mjp-1,4,695F,Gembrook - Fountain Gate,3
+4-696-mjp-1,4,696,Monbulk - Olinda,3
+4-697-mjp-1,4,697,Belgrave - Belgrave South,3
+4-699-mjp-1,4,699,Belgrave - Upwey,3
+4-701-mjp-1,4,701,Oakleigh - Bentleigh,3
+4-703-mjp-1,4,703,Middle Brighton - Blackburn,3
+4-704-mjp-1,4,704,Oakleigh - Clayton,3
+4-705-mjp-1,4,705,Mordialloc - Springvale,3
+4-706-mjp-1,4,706,Mordialloc - Chelsea,3
+4-708-mjp-1,4,708,Hampton - Carrum,3
+4-709-mjp-1,4,709,Mordialloc - Noble Park Station,3
+4-732-A-mjp-1,4,732,Box Hill - Upper Ferntree Gully,3
+4-733-mjp-1,4,733,Oakleigh - Box Hill,3
+4-734-mjp-1,4,734,Glen Iris - Glen Waverley,3
+4-735-mjp-1,4,735,Box Hill - Nunawading,3
+4-736-mjp-1,4,736,Blackburn - Mitcham,3
+4-737-mjp-1,4,737,Monash University - Croydon,3
+4-738-mjp-1,4,738,Mitcham - Knox City,3
+4-740-mjp-1,4,740,Mitcham - Vermont East,3
+4-742-mjp-1,4,742,Eastland SC - Chadstone SC,3
+4-745-mjp-1,4,745,Bayswater - Wantirna /  Boronia,3
+4-753-mjp-1,4,753,Glen Waverley - Bayswater,3
+4-754-mjp-1,4,754,Rowville - Glen Waverley,3
+4-755-mjp-1,4,755,Bayswater - Knox City SC,3
+4-757-mjp-1,4,757,Knox City SC - Scoresby,3
+4-758-mjp-1,4,758,Knox City SC - Knoxfield,3
+4-765-mjp-1,4,765,Mitcham - Box Hill,3
+4-766-mjp-1,4,766,Burwood - Box Hill,3
+4-767-mjp-1,4,767,Southland SC - Box Hill,3
+4-X57-mjp-1,4,768,Deakin University - Box Hill,3
+4-770-mjp-1,4,770,Frankston - Karingal,3
+4-771-mjp-1,4,771,Langwarrin - Frankston,3
+4-772-mjp-1,4,772,Frankston - Eliza Heights,3
+4-773-mjp-1,4,773,Frankston - Frankston South,3
+4-774-mjp-1,4,774,Frankston - Delacombe Park,3
+4-775-mjp-1,4,775,Frankston - Lakewood,3
+4-776-mjp-1,4,776,Frankston - Pearcedale,3
+4-777-mjp-1,4,777,Karingal  SC - McClelland Drive,3
+4-778-mjp-1,4,778,Kananook Station - Carrum Downs,3
+4-779-mjp-1,4,779,Frankston - Belvedere,3
+4-780-mjp-1,4,780,Frankston - Carrum,3
+4-781-mjp-1,4,781,Frankston - Mt Martha,3
+4-782-mjp-1,4,782,Flinders - Frankston,3
+4-783-mjp-1,4,783,Frankston - Hastings,3
+4-784-mjp-1,4,784,Frankston - Osborne,3
+4-785-mjp-1,4,785,Frankston - Mornington East,3
+4-786-mjp-1,4,786,Rye - St Andrews Beach,3
+4-787-mjp-1,4,787,Safety Beach - Sorrento,3
+4-788-mjp-1,4,788,Frankston - Portsea,3
+4-789-mjp-1,4,789,Langwarrin - Frankston Station,3
+4-790-mjp-1,4,790,Frankston Station - Langwarrin,3
+4-791-mjp-1,4,791,Cranbourne Station - Frankston Station,3
+4-792-mjp-1,4,792,Cranbourne Station - Botanic Ridge and Pearcedale,3
+4-795-mjp-1,4,795,Warneet - Cranbourne,3
+4-796-mjp-1,4,796,Cranbourne Station - Clyde,3
+4-798-mjp-1,4,798,Selandra Rise - Cranbourne Park SC,3
+4-799-mjp-1,4,799,Merinda Park Station - The Avenue Village SC,3
+4-800-mjp-1,4,800,Dandenong - Chadstone SC,3
+4-802-mjp-1,4,802,Dandenong - Chadstone SC,3
+4-804-mjp-1,4,804,Dandenong - Chadstone SC,3
+4-811-mjp-1,4,811,Dandenong - Brighton,3
+4-812-mjp-1,4,812,Dandenong - Brighton,3
+4-813-mjp-1,4,813,Dandenong - Waverley Gardens SC,3
+4-814-mjp-1,4,814,Springvale South - Dandenong,3
+4-815-mjp-1,4,815,Dandenong - Noble Park,3
+4-821-mjp-1,4,821,Southland SC - Clayton,3
+4-822-mjp-1,4,822,Chadstone SC - Sandringham,3
+4-823-mjp-1,4,823,North Brighton - Southland SC,3
+4-824-mjp-1,4,824,Moorabbin - Keysborough,3
+4-825-mjp-1,4,825,Moorabbin - Southland SC,3
+4-828-mjp-1,4,828,Hampton Station - Berwick Station,3
+4-831-mjp-1,4,831,Berwick Station - Kingsmere Estate,3
+4-832-mjp-1,4,832,Frankston - Carrum Downs,3
+4-833-mjp-1,4,833,Frankston - Carrum Downs,3
+4-z20-mjp-1,4,834,Berwick Station,3
+4-z30-mjp-1,4,835,Berwick Station,3
+4-836-mjp-1,4,836,Berwick Station - Eden Rise SC,3
+4-837-mjp-1,4,837,Berwick Station - Beaconsfield East,3
+4-838-mjp-1,4,838,Fountain Gate SC - Emerald,3
+4-839-mjp-1,4,839,North Berwick - Berwick Station,3
+4-840-mjp-1,4,840,Pakenham - Gembrook,3
+4-84I-mjp-1,4,841,Narre Warren North - Cranbourne,3
+4-842-mjp-1,4,842,Fountain Gate SC - Endeavour Hills SC,3
+4-843-mjp-1,4,843,Endeavour Hills - Dandenong Station,3
+4-844-mjp-1,4,844,Doveton - Dandenong,3
+4-845-mjp-1,4,845,Dandenong - Endeavour Hills,3
+4-846-mjp-1,4,846,Berwick Station - Eden Rise SC,3
+4-847-mjp-1,4,847,Berwick Station - The Avenue Village SC,3
+4-848-mjp-1,4,848,Brandon Park SC - Dandenong,3
+4-849-mjp-1,4,849,Dandenong - Mossgiel Park,3
+4-850-mjp-1,4,850,Dandenong - Glen Waverley,3
+4-857-mjp-1,4,857,Dandenong - Chelsea,3
+4-858-mjp-1,4,858,Edithvale - Aspendale Gardens,3
+4-861-mjp-1,4,861,Dandenong - Endeavour Hills,3
+4-862-mjp-1,4,862,Dandenong - Chadstone SC,3
+4-863-mjp-1,4,863,Hampton Park SC - Endeavour Hills SC,3
+4-885-mjp-1,4,885,Glen Waverley - Springvale,3
+4-886-mjp-1,4,886,Rosebud - Chisholm TAFE Rosebud Campus,3
+4-X62-mjp-1,4,887,Monash University (Peninsula Campus) - Rosebud,3
+4-X62-A-mjp-1,4,887,Monash University (Peninsula Campus) - Rosebud,3
+4-890-mjp-1,4,890,Dandenong Station - Lynbrook Station,3
+4-891-mjp-1,4,891,Lynbrook Station - Fountain Gate SC,3
+4-892-mjp-1,4,892,Casey Central SC - Dandenong Station,3
+4-893-mjp-1,4,893,Dandenong Station - Cranbourne Park SC,3
+4-894-mjp-1,4,894,Amberly Park - Hallam  Station,3
+4-895-mjp-1,4,895,Fountain Gate SC - Narre Warren South,3
+4-897-mjp-1,4,897,Clyde - Lynbrook Station,3
+4-898-mjp-1,4,898,Cranbourne East - Cranbourne Station,3
+4-899-mjp-1,4,899,Berwick Station - The Avenue Village SC,3
+4-900-mjp-1,4,900,Caulfield - Stud Park SC,3
+4-901-mjp-1,4,901,Melbourne Airport - Frankston,3
+4-902-mjp-1,4,902,Airport West - Chelsea,3
+4-903-mjp-1,4,903,Altona - Mordialloc,3
+4-905-mjp-1,4,905,City (King/Lonsdale Sts) - The Pines SC,3
+4-906-mjp-1,4,906,City (King/Lonsdale Sts) - Warrandyte,3
+4-907-mjp-1,4,907,City (King/Lonsdale Sts) - Mitcham,3
+4-908-mjp-1,4,908,City (King/Lonsdale Sts) - The Pines SC,3
+4-922-mjp-1,4,922,St Kilda Station - Southland Shopping Centre,3
+4-923-mjp-1,4,923,St Kilda Station - Southland Shopping Centre,3
+4-925-mjp-1,4,925,Pakenham Station - Lakeside,3
+4-926-mjp-1,4,926,Fountain Gate SC - Pakenham Station,3
+4-927-mjp-1,4,927,Pakenham Station - Pakenham North,3
+4-928-mjp-1,4,928,Cardinia Road Station - Pakenham Station,3
+4-929-mjp-1,4,929,Pakenham Station - Pakenham North (Army Rd),3
+5-995-mjp-1,5,,Warrnambool - Melbourne Via Ararat & Hamilton,3
+5-EC2-mjp-1,5,,Melbourne - Echuca/Moama Via Shepparton,3
+5-Ech-mjp-1,5,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3
+5-Ech-A-mjp-1,5,,Melbourne - Echuca/Moama Via Bendigo or Heathcote,3
+5-SBO-mjp-1,5,,Bendigo Station - Shepparton Station,3
+5-V01-mjp-1,5,,Albury - Melbourne Via Seymour,3
+5-V01-A-mjp-1,5,,Albury - Melbourne Via Seymour,3
+5-V01-B-mjp-1,5,,Albury - Melbourne Via Seymour,3
+5-V02-mjp-1,5,,"Melbourne - Adelaide Via Geelong, Ballarat & Horsham",3
+5-V03-mjp-1,5,,Adelaide - Melbourne Via Nhill & Bendigo,3
+5-V04-mjp-1,5,,Melbourne - Ararat Via Ballarat,3
+5-V05-mjp-1,5,,Ballarat - Melbourne Via Melton,3
+5-V06-mjp-1,5,,Ballarat - Warrnambool Via Skipton,3
+5-V07-mjp-1,5,,Melbourne - Barmah Via Heathcote & Shepparton,3
+5-V08-mjp-1,5,,Melbourne - Bairnsdale Via Traralgon & Sale,3
+5-V09-mjp-1,5,,Melbourne - Batemans Bay Via Bairnsdale,3
+5-V10-mjp-1,5,,Melbourne - Barham Via Heathcote,3
+5-V11-mjp-1,5,,Bendigo - Albury Via Shepparton & Wangaratta,3
+5-V12-mjp-1,5,,Bendigo Via Sunbury,3
+5-V13-mjp-1,5,,Canberra - Melbourne Via Bairnsdale,3
+5-V14-mjp-1,5,,Canberra - Melbourne Via Albury,3
+5-V15-mjp-1,5,,Melbourne - Cowes or Inverloch Via Dandenong & Koo Wee Rup,3
+5-V16-mjp-1,5,,Melbourne - Casterton Via Warrnambool & Hamilton,3
+5-V17-A-mjp-1,5,,Melbourne - Corowa Via Wangaratta & Rutherglen,3
+5-V17-B-mjp-1,5,,Melbourne - Corowa Via Wangaratta & Rutherglen,3
+5-V18-mjp-1,5,,Daylesford - Melbourne Via Woodend or Castlemaine,3
+5-V19-mjp-1,5,,Melbourne - Donald Via Bendigo,3
+5-V20-mjp-1,5,,Melbourne - Deniliquin Via Heathcote & Echuca,3
+5-V22-mjp-1,5,,Geelong - Bendigo Via Ballarat,3
+5-V23-mjp-1,5,,Melbourne - Geelong,3
+5-V24-mjp-1,5,,Melbourne - Halls Gap Via Ballarat & Stawell,3
+5-V25-mjp-1,5,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3
+5-V25-A-mjp-1,5,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3
+5-V25-B-mjp-1,5,,Marlo - Melbourne Via Lake Tyers Beach & Lakes Entrance,3
+5-V26-mjp-1,5,,Melbourne - Lancefield Via Sunbury or Gisborne,3
+5-V27-mjp-1,5,,Melbourne - Maryborough Via Castlemaine,3
+5-V28-mjp-1,5,,Melbourne - Mansfield Via Yea,3
+5-V29-mjp-1,5,,Melbourne - Mt Gambier Via Ballarat & Hamilton,3
+5-V30-mjp-1,5,,Melbourne - Mount Gambier Via Geelong & Warrnambool,3
+5-V31-mjp-1,5,,Albury - Mildura Via Shepparton & Kerang,3
+5-V32-mjp-1,5,,Mildura - Ballarat Via Swan Hill & Bendigo,3
+5-V34-mjp-1,5,,Melbourne - Mildura Via Ballarat & Donald,3
+5-V35-mjp-1,5,,Mildura - Melbourne Via Swan Hill & Bendigo,3
+5-V36-mjp-1,5,,Melbourne - Mulwala Via Seymour & Benalla,3
+5-V37-mjp-1,5,,Melbourne - Nhill Via Ballarat & Ararat,3
+5-V38-mjp-1,5,,Melbourne - Ouyen Via Ballarat & Warracknabeal,3
+5-V39-mjp-1,5,,Melbourne - Sea Lake Via Bendigo & Charlton,3
+5-V40-mjp-1,5,,Seymour - Melbourne Via Broadmeadows,3
+5-V41-mjp-1,5,,Melbourne - Griffith Via Shepparton,3
+5-V43-mjp-1,5,,Sale - Melbourne Via Traralgon,3
+5-V45-mjp-1,5,,Melbourne - Swan Hill Via Bendigo,3
+5-V47-mjp-1,5,,Sydney - Adelaide Via Albury,3
+5-V48-mjp-1,5,,"Traralgon Via Pakenham, Moe & Morwell",3
+5-V50-mjp-1,5,,Melbourne - Warrnambool Via Geelong & Apollo Bay,3
+5-V51-A-mjp-1,5,,Warrnambool Via Geelong & Colac,3
+5-V51-B-mjp-1,5,,Warrnambool Via Geelong & Colac,3
+5-V52-mjp-1,5,,Melbourne - Yarram Via Koo Wee Rup & Leongatha,3
+5-mby-mjp-1,5,,Melbourne - Mount Beauty Via Bright,3
+5-pay-mjp-1,5,,Melbourne - Paynesville Via Bairnsdale,3
+6-Sha-mjp-1,6,,Stawell - Stawell Via Halls Gap > Pomonal,3
+6-StA-mjp-1,6,,Stawell - St Arnaud Via Ararat,3
+6-StH-mjp-1,6,,Stawell - Horsham Via Western Hwy,3
+6-StS-mjp-1,6,,St Arnaud - Stawell Via Marnoo,3
+6-Swo-mjp-1,6,,Sea Lake - Woomelang,3
+6-Tal-mjp-1,6,,"Albury - Tallangatta Via Killara, Bonegilla & Red Bluff",3
+6-Tim-mjp-1,6,,Camperdown - Timboon Via Camperdown - Cobden Rd,3
+6-WFR-mjp-1,6,,Woodend,3
+6-WMc-mjp-1,6,,Warragul - CCG (McMillan campus),3
+6-WN1-mjp-1,6,,Wallan Railway Station - Wallan,3
+6-WPC-mjp-1,6,,Warrnambool - Timboon Via Port Campbell,3
+6-Woo-mjp-1,6,,Mansfield - Woods Point Via Jamieson,3
+6-Wpo-mjp-1,6,,"Warragul - Poowong East Via Drouin, Athlone & Poowong",3
+6-WrM-mjp-1,6,,Pakenham - Traralgon Via Warragul,3
+6-Wyc-mjp-1,6,,Swan Hill - Wycheproof Via Lalbert,3
+6-YFR-mjp-1,6,,Yarrawonga Via GP,3
+6-a23-mjp-1,6,,Albury/Wodonga - Corryong Via Walwa,3
+6-a25-mjp-1,6,,Portland - Hamilton Via Heywood,3
+6-a26-mjp-1,6,,Maryborough - Ballarat,3
+6-a27-mjp-1,6,,Ballarat - Maryborough,3
+6-a28-mjp-1,6,,Tooleybuc - Swan Hill Via Nyah West,3
+6-a29-mjp-1,6,,Ballarat - Bendigo Via Maryborough & Castlemaine,3
+6-a30-mjp-1,6,,Sale - Loch Sport Via Longford,3
+6-a34-mjp-1,6,,Fountain Gate - Cowes Via Pakenham & San Remo,3
+6-a44-mjp-1,6,,Myrtleford - Albury Via Wodonga,3
+6-a45-mjp-1,6,,Wangaratta - Springhurst Via Hume Fwy,3
+6-a46-mjp-1,6,,Wangaratta - Springhurst,3
+6-a47-mjp-1,6,,Wonthaggi - Cowes Via Anderson & San Remo,3
+6-a50-mjp-1,6,,Alvie - Colac Via Coragulac,3
+6-a53-mjp-1,6,,Maryborough - Carisbrook,3
+6-alb-mjp-1,6,,Ararat - Lake Bolac Via Willaura,3
+6-alc-mjp-1,6,,Albury - Corowa Via Barnawartha & Rutherglen,3
+6-als-mjp-1,6,,Seymour - Alexandra Via Yea,3
+6-cob-mjp-1,6,,Cobram,3
+6-gvc-mjp-1,6,,Grantville - Coronet Bay,3
+6-heb-mjp-1,6,,"Bendigo - Heathcote Via Longlea, Axedale & Knowsley",3
+6-hep-mjp-1,6,,Hepburn - Creswick Via Daylesford,3
+6-mal-mjp-1,6,,Mallacoota - Genoa Via Gipsy Point,3
+6-ome-mjp-1,6,,Omeo - Bright Via Hotham Heights,3
+6-rok-mjp-1,6,,"Rokewood - Ballarat Via Dereel, Enfield & Napoleons",3
+6-54n-mjp-1,6,,"Wonthaggi - Traralgon Via Inverloch, Leongatha & Mirboo Nth",3
+6-855-mjp-1,6,,Traralgon - Yarram Via Gormandale,3
+6-86N-mjp-1,6,,Horsham - Kaniva Via Dimboola & Nhill,3
+6-89x-mjp-1,6,,Daylesford Via Hepburn Springs,3
+6-935-mjp-1,6,,Korumburra - Korumburra,3
+6-947-mjp-1,6,,Sale - Stratford,3
+6-959-mjp-1,6,,Wangaratta - Chiltern Via Springhurst & Rutherglen,3
+6-960-mjp-1,6,,Yarrawonga - Wangaratta Via Peechelba & Killawarra,3
+6-962-mjp-1,6,,Wangaratta - Glenrowan Via Wangaratta Rd,3
+6-973-mjp-1,6,,Leongatha - Wonthaggi Via Inverloch,3
+6-976-mjp-1,6,,Wonthaggi - Cape Paterson,3
+6-977-mjp-1,6,,Wonthaggi - Coronet Bay/Corinella Via Anderson & Corinella,3
+6-994-mjp-1,6,,Warrnambool - Mortlake Via Ballangeich & Ellerslie,3
+6-996-mjp-1,6,,Ballan - Mount Egerton Via Gordon,3
+6-997-mjp-1,6,,Ballan - Hepburn Springs Via Daylesford,3
+6-ALX-mjp-1,6,,Alexandra - Marysville Via Taggerty & Buxton,3
+6-Apr-mjp-1,6,,Hopkins Correctional Centre - Ararat,3
+6-ArM-mjp-1,6,,Ararat - Maryborough Via Avoca,3
+6-ArS-mjp-1,6,,Ararat - Stawell Via Great Western,3
+6-Avo-mjp-1,6,,Ballarat - Avoca Via Clunes & Maryborough,3
+6-BGN-mjp-1,6,,Bendigo - Goornong,3
+6-BSV-mjp-1,6,,Ballarat - Snake Valley Via Haddon,3
+6-Boo-mjp-1,6,,Boort,3
+6-Bor-mjp-1,6,,Bendigo - Boort Via Inglewood & Wedderburn,3
+6-BxW-mjp-1,6,,"Bendigo - Woomelang Via Wedderburn, Charlton & Birchip",3
+6-CMO-mjp-1,6,,"Colac - Marengo Via Forrest, Skenes Creek & Apollo Bay",3
+6-Eil-mjp-1,6,,Eildon - Alexandra Via Thornton,3
+6-GIV-mjp-1,6,,Geelong - Inverleigh Via Fyansford,3
+6-Hpt-mjp-1,6,,Penshurst - Hamilton Via Tarrington,3
+6-KM1-mjp-1,6,,Kilmore - Kilmore East Railway Station,3
+6-KWR-mjp-1,6,,Koo-Wee-Rup - Pakenham,3
+6-KeE-mjp-1,6,,Echuca - Kerang,3
+6-Ker-mjp-1,6,,Kerang,3
+6-Kym-mjp-1,6,,Kyneton Town Centre - Malmsbury,3
+6-MLH-mjp-1,6,,Horsham - Mildura Via Warracknabeal & Ouyen,3
+6-Ma1-mjp-1,6,,Maffra Post Office - Glassford Street Via Maffra Hospital,3
+6-Mab-mjp-1,6,,Maryborough - Maryborough Station,3
+6-Mbe-mjp-1,6,,"Maryborough - Maryborough Via Bowenvale, Dunolly & Bealiba",3
+6-MiS-mjp-1,6,,Mildura - Sea Lake Via Ouyen,3
+6-Mre-mjp-1,6,,"Maryborough - Maryborough Via Avoca, Redbank & Natte Yallock",3
+6-MtB-mjp-1,6,,"Albury - Mt Beauty Via Baranduda, Kergunya & Tawonga South",3
+6-MtE-mjp-1,6,,Ballarat - Mt Egerton Via Gordon,3
+6-Mta-mjp-1,6,,"Maryborough Via Daisy Hill, Talbot & Red Lion",3
+6-Nar-mjp-1,6,,"Horsham - Naracoorte Via Natimuk, Goroke & Edenhope",3
+6-Nul-mjp-1,6,,Sea Lake - Nullawil Via Berriwillock & Culgoa,3
+6-Ouy-mjp-1,6,,Ouyen - Pinnaroo Via Mallee Hwy,3
+6-R01-mjp-1,6,,Restdown Retirement Village,3
+6-R11-mjp-1,6,,"Donald - Horsham Via Minyip, Rupanyup & Murtoa",3
+6-R12-mjp-1,6,,Sea Lake - Swan Hill Via Lake Boga or Ultima,3
+6-R13-mjp-1,6,,Birchip - Horsham Via Warracknabeal,3
+6-R14-mjp-1,6,,Horsham - Hopetoun Via Dimboola & Rainbow,3
+6-R21-mjp-1,6,,Mildura - Robinvale Via Euston,3
+6-R22-mjp-1,6,,Ballarat - Stawell Via Beaufort & Ararat,3
+6-R29-mjp-1,6,,Bendigo - Kyneton Via Castlemaine & Taradale,3
+6-R53-mjp-1,6,,Wangaratta - Cheshunt Via Wangaratta - Whitfield Rd,3
+6-R95-mjp-1,6,,Kyneton - Woodend,3
+6-Sea-mjp-1,6,,Sale - Seaspray Via Longford,3
+6-WG1-mjp-1,6,1,Warragul,3
+6-a36-mjp-1,6,1,Echuca - Westwood Park Via Echuca South,3
+6-a40-mjp-1,6,1,Mooroopna - Shepparton Via McLennan St,3
+6-a42-mjp-1,6,1,Swan Hill North,3
+6-r89-mjp-1,6,1,Castlemaine Via Campbells Creek,3
+6-wr1-mjp-1,6,1,Warrnambool - Dennington,3
+6-73-mjp-1,6,1,Bairnsdale Via West Bairnsdale,3
+6-589-mjp-1,6,1,Sale - South,3
+6-984-mjp-1,6,1,Albury - Corowa Via Howlong,3
+6-992-mjp-1,6,1,Hamilton (Route 1) Via Coleraine Road,3
+6-Ar1-mjp-1,6,1,Ararat West Via Brewster St & Lowe St,3
+6-BNI-mjp-1,6,1,Benalla West,3
+6-CL1-mjp-1,6,1,Elliminyt - Colac Via Lavers Hill Rd,3
+6-G01-mjp-1,6,1,North Shore Station - Deakin University Via Thompson Rd and Colac Rd,3
+6-HR1-mjp-1,6,1,Horsham - Albert Street North Via Alexander Av,3
+6-Ky1-mjp-1,6,1,Kyneton Town Centre - Kyneton Station,3
+6-L01-mjp-1,6,1,Moe - Traralgon Via Morwell,3
+6-La1-mjp-1,6,1,Lakes Entrance - Kalimna,3
+6-MB1-mjp-1,6,1,Maryborough - Hedges Via Derby Rd,3
+6-PT1-mjp-1,6,1,Portland,3
+6-S01-mjp-1,6,1,Stawell Via Ligar St,3
+6-SY1-mjp-1,6,1,Seymour East,3
+6-Sh1-mjp-1,6,1,Parkside Gardens via GV Health,3
+6-yyy-mjp-1,6,10,Ballarat Station - Alfredton Via Wendouree,3
+6-10-mjp-1,6,10,Bairnsdale - Marlo,3
+6-G10-mjp-1,6,10,Lara South - Lara Station Via Forest Rd,3
+6-921-mjp-1,6,100/200,Mildura City - Red Cliffs,3
+6-GVL-mjp-1,6,101,Geelong - Apollo Bay Via Torquay & Lorne,3
+6-a17-B-mjp-1,6,11,Bairnsdale - Lake Tyers Beach Via Lakes Entrance,3
+6-xyz-mjp-1,6,11,Ballarat Station - Wendouree Station Via Howitt St,3
+6-G11-mjp-1,6,11,Lara East - Lara Station Via Rennie St,3
+6-L11-mjp-1,6,11,Moe West,3
+6-a18-mjp-1,6,12,Bairnsdale - Gelantipy Via Lakes Entrance,3
+6-lkm-mjp-1,6,12,Ballarat Station - Wendouree Station Via Forest St,3
+6-G12-mjp-1,6,12,Lara Station - Lara West,3
+6-L12-mjp-1,6,12,Moe South,3
+6-hnb-mjp-1,6,13,Ballarat Station - Invermay Park,3
+6-13-mjp-1,6,13,Paynesville - Bairnsdale Via Eagle Point,3
+6-L13-mjp-1,6,13,Moe North,3
+6-jjg-mjp-1,6,14,Ballarat Station - Black Hill,3
+6-14-mjp-1,6,14,Bairnsdale - Omeo Via Bruthen & Swifts Creek,3
+6-L14-mjp-1,6,14,Moe Via Old Sale Rd,3
+6-dcf-mjp-1,6,15,Ballarat Station - Brown Hill,3
+6-L15-mjp-1,6,15,Moe Via Dinwoodie Dr,3
+6-876-mjp-1,6,150,Albury Via Birallee Shopping Centre,3
+6-877-mjp-1,6,160,Albury Via Birallee Shopping Centre,3
+6-G19-mjp-1,6,19,"Geelong Station - Bannockburn Via Batesford, Gheringhap",3
+6-WG2-mjp-1,6,2,Warragul East,3
+6-a32-mjp-1,6,2,Bairnsdale Via East Bairnsdale,3
+6-a37-mjp-1,6,2,Echuca,3
+6-a43-mjp-1,6,2,Swan Hill South,3
+6-cc2-mjp-1,6,2,Colac West - Colac Via Fyans St,3
+6-wr2-mjp-1,6,2,Warrnambool - Gateway Plaza Via Centro,3
+6-298-mjp-1,6,2,Sale - North,3
+6-904-mjp-1,6,2,"Rodney Park Via Rumbalara Co-Op, Echuca Road",3
+6-Ar2-mjp-1,6,2,Ararat South Via Burke Rd & Churchill Av,3
+6-BNZ-mjp-1,6,2,Benalla East,3
+6-HA2-mjp-1,6,2,Hamilton (Route 2) Via Kent Road,3
+6-HR2-mjp-1,6,2,Horsham - Sunnyside Via Horsham Hospital,3
+6-Ky2-mjp-1,6,2,Kyneton Town Centre - Kyneton West,3
+6-L02-mjp-1,6,2,Churchill - Morwell,3
+6-La2-mjp-1,6,2,Lakes Entrance - Lakes Entrance (North),3
+6-MB2-mjp-1,6,2,Princes Park/Whirrakee - Maryborough Via Holyrood St,3
+6-PT2-mjp-1,6,2,Portland,3
+6-R37-mjp-1,6,2,Castlemaine Via Castlemaine Hospital,3
+6-S02-mjp-1,6,2,Stawell Via Patrick St,3
+6-SY2-mjp-1,6,2,Seymour North,3
+6-Sh2-mjp-1,6,2,Parkside Gardens via The Boulevard,3
+6-lok-mjp-1,6,20,Ballarat Station - Canadian,3
+6-G20-mjp-1,6,20,Geelong Station - Corio SC Via Melbourne Rd,3
+6-L20-mjp-1,6,20,Morwell South,3
+6-tyt-mjp-1,6,21,Ballarat Station - Buninyong Via Federation University,3
+6-L21-mjp-1,6,21,Morwell - Mid Valley SC Via Crinigan Rd,3
+6-20b-mjp-1,6,211/311/312,Merbein - MilduraCity Via Eleventh St,3
+6-ndb-mjp-1,6,22,Ballarat Station - Federation University Via Sebastopol,3
+6-G22-mjp-1,6,22,North Shore Station - Geelong Station Via Anakie Rd,3
+6-L22-mjp-1,6,22,Mid Valley SC - Morwell Via Hourigan Rd,3
+6-fgt-mjp-1,6,23,Ballarat Station - Mount Pleasant,3
+6-G23-mjp-1,6,23,"Corio SC - North Shore Via Rosewall, Station St",3
+6-sdf-mjp-1,6,24,Ballarat Station - Sebastopol,3
+6-G24-mjp-1,6,24,"North Geelong Station - Geelong Station Via Herne Hill, Newtown",3
+6-cvx-mjp-1,6,25,Ballarat Station - Delacombe,3
+6-G25-mjp-1,6,25,"Geelong Station - Bell Post Hill Via Autumn St, McCurdy Rd",3
+6-920-mjp-1,6,250/300,Merbein - Mildura City Via Seventeenth St,3
+6-mnm-mjp-1,6,26,Ballarat Station - Alfredton,3
+6-Sh3-mjp-1,6,3,Golf Drive/TAFE - Shepparton,3
+6-WG3-mjp-1,6,3,"Warragul Via West Gippsland Hospital, Fairview",3
+6-a33-mjp-1,6,3,Bairnsdale Via Wy Yung,3
+6-a38-mjp-1,6,3,Echuca Via Moama,3
+6-a39-mjp-1,6,3,Mooroopna Park Via Echuca Road and Gange Street,3
+6-wr3-mjp-1,6,3,Warrnambool - Deakin University,3
+6-209-mjp-1,6,3,Sale - Wurruk,3
+6-Ar3-mjp-1,6,3,"Ararat North Via Baird St, NMIT & Alfred St",3
+6-CL3-mjp-1,6,3,Colac - Colac East Via Church St,3
+6-HA3-mjp-1,6,3,Hamilton (Route 3) Via Ballarat Road,3
+6-HR3-mjp-1,6,3,Wawunna Road - Horsham Via Dimboola Rd,3
+6-Ky3-mjp-1,6,3,Kyneton Town Centre - Kyneton South,3
+6-L03-mjp-1,6,3,Churchill - Traralgon,3
+6-La3-mjp-1,6,3,Lakes Entrance - Lakes Entrance (East),3
+6-MB3-mjp-1,6,3,Pascoe - Maryborough Via Gillies St,3
+6-R36-mjp-1,6,3,Castlemaine - Harcourt,3
+6-S03-mjp-1,6,3,Stawell Via Stawell West,3
+6-SY3-mjp-1,6,3,Puckapunyal,3
+6-ggg-mjp-1,6,30,Ballarat Station - Creswick,3
+6-G30-mjp-1,6,30,Geelong Station - Whittington Via Newcomb,3
+6-L30-mjp-1,6,30,Churchill Town Service,3
+6-lng-mjp-1,6,31,Wendouree Station - Miners Rest,3
+6-G31-mjp-1,6,31,Geelong Station - St Albans Park,3
+6-G32-mjp-1,6,32,Geelong Station - Leopold Via Bellarine Hwy,3
+6-Sh4-mjp-1,6,4,Shepparton - Connolly Park,3
+6-WG4-mjp-1,6,4,Warragul (Queen St) - Burke St,3
+6-a19-mjp-1,6,4,Sale - Sale Station,3
+6-wr4-mjp-1,6,4,Warrnambool - Tower Square,3
+6-CM4-mjp-1,6,4,Castlemaine - Maldon,3
+6-Ec4-mjp-1,6,4,Echuca - Cunningham Downs Retirement Village,3
+6-HR4-mjp-1,6,4,Horsham - Williams Road South Bank Via Williams Rd,3
+6-KN4-mjp-1,6,4,Kyneton Town Centre - Kyneton North,3
+6-L04-mjp-1,6,4,Boolarra - Churchill Via Yinnar,3
+6-MB4-mjp-1,6,4,Maryborough Education Centre - Maryborough Via Gladstone St,3
+6-SY4-mjp-1,6,4,Seymour (AM peak),3
+6-G40-mjp-1,6,40,"Geelong Station - Deakin University Via Breakwater, Grovedale",3
+6-L40-mjp-1,6,40,Cross's Road Via Cross's Road,3
+6-M40-mjp-1,6,400,Mildura Central SC Via East Mildura,3
+6-a20-mjp-1,6,401,West End - Wangaratta,3
+6-M41-mjp-1,6,401,Mildura City Via East Mildura,3
+6-a21-mjp-1,6,402,Wangaratta - Yarrunga Via Murdoch Road,3
+6-a22-mjp-1,6,403,Wangaratta - Yarrawonga Road,3
+6-W04-mjp-1,6,404,Wangaratta - Yarrunga Via Mason Street,3
+6-G41-mjp-1,6,41,Geelong Station - Deakin University Via Grovedale,3
+6-L41-mjp-1,6,41,Traralgon West Via Traralgon West,3
+6-G42-mjp-1,6,42,Geelong Station - Deakin University Via South Valley Rd,3
+6-L42-mjp-1,6,42,Southside Via Southside,3
+6-G43-mjp-1,6,43,Geelong Station - Deakin University Via Highton,3
+6-L43-mjp-1,6,43,Traralgon East Via Traralgon East,3
+6-BM3-mjp-1,6,433,Hillview Estate - Bacchus Marsh Via Bacchus Marsh Station,3
+6-BM4-mjp-1,6,434,Bacchus Marsh Station - Telford Park Via Bacchus Marsh,3
+6-BM5-mjp-1,6,435,Bacchus Marsh Station - Darley Via Bacchus Marsh,3
+6-L44-mjp-1,6,44,Ellavale Via Ellavale,3
+6-L45-mjp-1,6,45,Traralgon North Via Traralgon North,3
+6-gi3-mjp-1,6,473,Gisborne Railway Station,3
+6-gi4-mjp-1,6,474,Gisborne Railway Station,3
+6-G49-mjp-1,6,49,Belmont Village SC - Kalkee Ret Village,3
+6-Sh5-mjp-1,6,5,Shepparton - Archer,3
+6-WG5-mjp-1,6,5,Warragul Station - Noojee Via Buln Buln,3
+6-wr5-mjp-1,6,5,Lake Pertobe Loop,3
+6-B05-mjp-1,6,5,Kangaroo Flat - Huntly Via Bendigo Station,3
+6-Ec5-mjp-1,6,5,Echuca - 24 Lane Via Moama,3
+6-HR5-mjp-1,6,5,Horsham - Natimuk Road Via Windsor Cr,3
+6-L05-mjp-1,6,5,"Moe - Traralgon Via Yallourn Nth, Tyers",3
+6-R30-mjp-1,6,5,Castlemaine - Taradale Via Chewton & Elphinstone,3
+6-SY5-mjp-1,6,5,Seymour Nth East(PM peak),3
+6-B50-mjp-1,6,50,Bendigo Station - Epsom Station Via Goynes Rd,3
+6-G50-mjp-1,6,50,"Geelong Station - Jan Juc Via Marshall Station, Wombah Park, Torquay",3
+6-M50-mjp-1,6,500,Mildura Central SC Via West Mildura,3
+6-M51-mjp-1,6,501,Mildura City Via West Mildura,3
+6-B51-mjp-1,6,51,Bendigo Station - Eaglehawk Via Jackass Flat,3
+6-G51-mjp-1,6,51,"Geelong Station - Jan Juc Via Torquay, Marshall Station",3
+6-B52-mjp-1,6,52,Bendigo Station - Eaglehawk Via Arnold St,3
+6-B53-mjp-1,6,53,Bendigo Station - Eaglehawk Via Eaglehawk Rd,3
+6-B54-mjp-1,6,54,Bendigo Station - Maiden Gully Via Calder Hwy,3
+6-B55-mjp-1,6,55,Bendigo Station - Kangaroo Flat Via Golden Square,3
+6-G55-mjp-1,6,55,"Geelong Station - Ocean Grove Via Marshall Station, Barwon Heads",3
+6-G56-mjp-1,6,56,"Geelong Station - Queenscliff Via Leopold, Ocean Grove",3
+6-Sh6-mjp-1,6,6,Shepparton - South East,3
+6-c06-mjp-1,6,6,Castlemaine - Chewton Via Loddon Prison,3
+6-wr6-mjp-1,6,6,Warrnambool - Merrivale,3
+6-HR6-mjp-1,6,6,Horsham - Haven Via Stawell Rd,3
+6-L06-mjp-1,6,6,Traralgon South,3
+6-B60-mjp-1,6,60,Bendigo Station - East Bendigo,3
+6-G60-mjp-1,6,60,Geelong Station - St Leonards Via Portarlington,3
+6-M60-mjp-1,6,600,Mildura Central SC,3
+6-M61-mjp-1,6,601,Mildura Central SC Via Mildura South,3
+6-M62-mjp-1,6,602,Mildura City,3
+6-B61-mjp-1,6,61,Bendigo Station - La Trobe University Via Strathdale,3
+6-G61-mjp-1,6,61,"Drysdale - Geelong Station Via Clifton Springs, Leopold",3
+6-B62-mjp-1,6,62,Bendigo Station - Spring Gully Via La Trobe University,3
+6-B63-mjp-1,6,63,Bendigo Station - La Trobe University Via Miller St,3
+6-B64-mjp-1,6,64,Bendigo Station - Golden Square Via Quarry Hill,3
+6-B65-mjp-1,6,65,Bendigo Station - Spring Gully Via Carpenter St,3
+6-Sh7-mjp-1,6,7,Shepparton - Marketplace,3
+6-a31-mjp-1,6,7,Beechworth - Albury Via Yackandandah & Wodonga,3
+6-b25-mjp-1,6,7,Roberts Ave - Horsham Railway Station,3
+6-L07-mjp-1,6,7,Traralgon - Churchill Via Hazelwood North > Monash University,3
+6-B70-mjp-1,6,70,Bendigo Station - Strathfieldsaye,3
+6-B71-mjp-1,6,71,Strathfieldsaye SC (Loop) Via Turners Rd,3
+6-Sh8-mjp-1,6,8,Shepparton - Kialla,3
+6-wr8-mjp-1,6,8,Warrnambool - Port Fairy,3
+6-L08-mjp-1,6,8,Traralgon - Moe Via Morwell,3
+6-W80-mjp-1,6,80,Warragul Station - Warragul South,3
+6-W81-mjp-1,6,81,Warragul Station - Warragul North,3
+6-W82-mjp-1,6,82,Warragul Station - Warragul North,3
+6-W83-mjp-1,6,83,Warragul Station - Warragul East,3
+6-W85-mjp-1,6,85,Drouin Station - Warragul Station,3
+6-W86-mjp-1,6,86,Drouin Station - Drouin North,3
+6-W89-mjp-1,6,89,Warragul Station - Noojee Via Buln Buln,3
+6-Sh9-mjp-1,6,9,Shepparton - Aquamoves,3
+6-wr9-mjp-1,6,9,Warrnambool - Allansford,3
+6-L09-mjp-1,6,9,Traralgon - Churchill,3
+6-866-mjp-1,6,AW,Albury - Wodonga Via Gateway Island,3
+6-875-mjp-1,6,B,Baranduda,3
+6-873-mjp-1,6,C,Cambourne Park,3
+6-R54-mjp-1,6,Dudley,Wonthaggi Via Dudley,3
+6-WoE-mjp-1,6,E,East Wodonga,3
+6-879-mjp-1,6,EA,East Albury (via Base Hospital),3
+6-867-mjp-1,6,F,Wodonga Via West Wodonga,3
+6-868-mjp-1,6,G,Wodonga Via Gayview Drive,3
+6-gld-mjp-1,6,Goldrush,Sovereign Hill - Ballarat Station,3
+6-woM-mjp-1,6,M,Wodonga Via Mayfair Drive,3
+6-a48-mjp-1,6,North,Wonthaggi Via North Wonthaggi,3
+6-872-mjp-1,6,O,West Wodonga,3
+6-WoS-mjp-1,6,S,South Wodonga,3
+6-880-mjp-1,6,SA,South Albury,3
+6-a49-mjp-1,6,South,Wonthaggi Via South Wonthaggi,3
+6-946-mjp-1,6,South - Schools AM,Swan Hill,3
+6-949-mjp-1,6,South - Schools PM,Swan Hill South,3
+6-869-mjp-1,6,T,TAFE Via West Wodonga,3
+6-878-mjp-1,6,WA,West Albury,3
+6-874-mjp-1,6,WS,Wodonga,3
+7-B01-mjp-1,7,TeleBus 1,Lilydale Station - Chirnside Park SC,3
+7-B02-mjp-1,7,TeleBus 2,Mooroolbark Station - Chirnside Park SC,3
+7-B03-mjp-1,7,TeleBus 3,Mooroolbark Station - Chirnside Park SC,3
+7-B04-mjp-1,7,TeleBus 4,Mooroolbark Station - Croydon Station,3
+7-B07-mjp-1,7,TeleBus 7,Ferntree Gully Station - Stud Park,3
+7-B08-mjp-1,7,TeleBus 8,Ferntree Gully Station - Stud Park,3
+7-B09-mjp-1,7,TeleBus 9,Stud Park,3
+8-941-mjp-1,8,941,City - Watergardens,3
+8-94z-mjp-1,8,942,City - St Albans,3
+8-942-mjp-1,8,942d,City - St Albans,3
+8-943-mjp-1,8,943,Watergardens Station - Melton,3
+8-944-mjp-1,8,944,City - Point Cook,3
+8-945-mjp-1,8,945,City - Wyndham Vale,3
+8-951-mjp-1,8,951,City - Glenroy,3
+8-952-mjp-1,8,952,City - Broadmeadows,3
+8-953-mjp-1,8,953,Broadmeadows - Craigieburn,3
+8-955-mjp-1,8,955,City - Mernda,3
+8-961-mjp-1,8,961,City - Doncaster,3
+8-963-mjp-1,8,963,Ringwood - Lilydale,3
+8-964-mjp-1,8,964,Croydon - Lilydale,3
+8-965-mjp-1,8,965,Healesville - Healesville,3
+8-966-mjp-1,8,966,City - Box Hill,3
+8-967-mjp-1,8,967,Glen Waverley - Bayswater,3
+8-969-mjp-1,8,969,City - Ringwood,3
+8-970-mjp-1,8,970,Carrum - Rosebud,3
+8-978-mjp-1,8,978,Elsternwick Station - Dandenong,3
+8-979-mjp-1,8,979,Elsternwick Station - Dandenong,3
+8-981-mjp-1,8,981,Dandenong - Cranbourne,3
+8-982-mjp-1,8,982,Dandenong - Cranbourne,3
