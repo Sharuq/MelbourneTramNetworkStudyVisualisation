@@ -12,3 +12,7 @@ Through this project I have analyzed the data and tried to find solutions for be
 ~ Are there any routes which can be optimized for more efficiency?
 
 The project utilizes, May 2017 General Transit Feed Specification (GTFS) feeds and passenger load survey data as data sources.
+
+Find out more on below link:
+
+https://sharuq.shinyapps.io/MelbourneTramStudy_VisualisationProject/
