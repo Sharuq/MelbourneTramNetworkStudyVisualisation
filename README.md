@@ -13,6 +13,6 @@ Through this project I have analyzed the data and tried to find solutions for be
 
 The project utilizes, May 2017 General Transit Feed Specification (GTFS) feeds and passenger load survey data as data sources.
 
-Find out more on below link:
+Find out more on below link:(Note: Website needs to load a huge amount of data, so it might take a while, ready to bear with it )
 
 https://sharuq.shinyapps.io/MelbourneTramStudy_VisualisationProject/
